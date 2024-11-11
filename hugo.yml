@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com/" # 首页地址
-title: ExampleSite # 首页标题
+baseURL: "https://yolo.cyou/" # 首页地址
+title: YOLO # 首页标题
 paginate: 5
 theme: PaperMod
 # 支持中文
@@ -19,8 +19,8 @@ params:
   busuanzi:
       enable: true
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite # 首页标题
-  description: "ExampleSite description" # 页面描述
+  title: YOLO# 首页标题
+  description: "记录点滴，留下足迹" # 页面描述
   keywords: [Blog, Portfolio, PaperMod] # 首页的关键词
   author: YoYo # 文章中默认显示的作者名字
   # author: ["Me", "You"] # multiple authors
@@ -103,7 +103,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content" # 填入github的仓库地址
+    URL: "https://github.com/Byte-Coder2020/Byte-Coder2020-Byte-Coder2020.github.io.git/tree/main/content" # 填入github的仓库地址
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
