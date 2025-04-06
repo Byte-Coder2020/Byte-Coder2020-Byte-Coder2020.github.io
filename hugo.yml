@@ -1,7 +1,7 @@
 baseURL: "https://yolo.cyou/" # 首页地址
 title: YOLO # 首页标题
 paginate: 5
-theme: PaperMod
+theme: hugo-theme-stack 
 # 支持中文
 languageCode: zh
 defaultContentLanguage: zh
